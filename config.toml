@@ -1,5 +1,5 @@
 baseURL = "https://ryyjun.xyz"
-title = "Your Website Title"
+title = "ryyjun's note"
 languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
